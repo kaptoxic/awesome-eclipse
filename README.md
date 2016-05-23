@@ -25,6 +25,9 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Xtend](https://www.eclipse.org/xtend/)
 * [Rust](https://github.com/RustDT/RustDT)
 
+#### Verification
+* [Kopitiam](https://github.com/hannesm/Kopitiam/) : Support of side-by-side proofs and code
+
 ## Closed-source plugins
 (TODO)
 
