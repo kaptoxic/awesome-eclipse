@@ -17,7 +17,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 ### Visualisation tools
 * [KlassViz](https://github.com/OpenKieler/klassviz): Class visualisation
 
-### Language support
+### Language/Framework support
 * [Scala](http://scala-ide.org/)
 * [Kotlin](https://github.com/JetBrains/kotlin-eclipse/)
 * [Markdown](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
